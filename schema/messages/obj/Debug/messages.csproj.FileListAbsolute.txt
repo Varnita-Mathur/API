@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\CanadaPost\CPCWS_Rating_DotNet_Samples\REST\rating\schema\messages\bin\Debug\messages.dll
+\\Mac\Home\Desktop\CanadaPost\CPCWS_Rating_DotNet_Samples\REST\rating\schema\messages\bin\Debug\messages.pdb
+\\Mac\Home\Desktop\CanadaPost\CPCWS_Rating_DotNet_Samples\REST\rating\schema\messages\obj\Debug\messages.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\CanadaPost\CPCWS_Rating_DotNet_Samples\REST\rating\schema\messages\obj\Debug\messages.dll
+\\Mac\Home\Desktop\CanadaPost\CPCWS_Rating_DotNet_Samples\REST\rating\schema\messages\obj\Debug\messages.pdb

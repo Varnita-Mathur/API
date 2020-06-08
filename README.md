@@ -1,2 +1,2 @@
 # API
-NewEgg Api and Canada Post APi
+Canada Post APi
